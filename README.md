@@ -1,6 +1,6 @@
 Naiumuri Application
 
-Hey guys, this is my Word Square Application
+Hey guys, this is my Word Square Application! For this project, i have used Java 14, Junit4 and gradle. Hope you enjoy!
 
 To be able to use this application, go into src/main/java
 - Type 'javac Main.java'
